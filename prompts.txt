@@ -4,12 +4,15 @@ Tres iconos con info breve debajo, estos señalando indicadores de confianza (a�
 Sección servicios (Reparación de pc de mesa y portatil, limpieza y mantenimiento, instalación y reinstalación de sistema operativo, soporte remoto, venta de repuestos, cambio de pantalla y teclado): tarjetas con icono, nombre de servicio, breve info y tiempo de trabajo aprox. 
 En grilla al menos tres columnas en pantalla de escritorio. Sección marcas y dispositivos atendidos: HP, Lenovo, Apple, Asus, Acer, Dell. Sección tabla de precios referenciales: Tabla html, 6 filas con columnas (servicio, precio desde, tiempo estimado), estelizada con CSS (cabecera con fondo, filas alternadas, borde). 
 Sección testimonio (3): nombre cliente, tipo de servicio recibido, texto del comentario, calificación. Footer: nombre y logo, horarios presencial y remoto, dirección, email, telefono, whatsapp, links a rrss, año de copyright. 
-
 Estilo css: azul oscuro, gris, blanco, color de acento (3 como variables CSS). 2 tipografías (moderna titulos y legible para cuerpo [google fonts]), tarjetas de servicio con hover suave, adaptado para pantaññas moviles (elementos alineados en una columna y tabla horizontal). ------------------------------------------------------------
-RESPUESTA RECIBIDA (resumen breve): [Resumir en no mas de tres oraciones que 
-respondio Copilot] ----------------------------------------------------------
--- USO EN EL PROYECTO: [Explicar con tus propias palabras si usaste la 
-respuesta tal cual, si la modificaste o si la descartaste. Indicar por que 
-tomaste esa decision.] ------------------------------------------------------
------- REFLEXION PERSONAL: [Escribir con tus propias palabras: fue util el 
-prompt? Obtuviste lo que esperabas? Que cambiarias la proxima vez?] 
+
+RESPUESTA RECIBIDA (resumen breve): [Creare estructura HTML para Techfix con estilos CSS responsive.] ----------------------------------------------------------
+-- USO EN EL PROYECTO: [Decidi usar el resultado tal cual como me dio, tuve que poner la imagen.] ------------------------------------------------------
+------ REFLEXION PERSONAL: [Si me parecio bien para acortar tiempo en la estructura base y el diseño visual]
+
+2) Etapa del proyecto: [Etapa 2] Fecha: 20-05-2026
+PROMPT ENVIADO A COPILOT: Pagina ingreso.html. Formulario: (A Cliente) nombre completo, dni, email, confirmar email, telefono de contacto, tipo de cliente (empresa o particular. Empresa entonces campo para nombre de este y el CUIT), provincia (10 argentinas), localidad. (B datos del equipo) tipo dispositivo con opcion de otra para agregar, marcas + opcion otra (otra entonces campo de texto), modelo, numero de serie o imei, sistema operativo, garantia de equipo vigente (checkbox, si es el caso campo para ingresar numero de orden compra o fecha), equipo con datos importantes sin respaldo (checkbox con advertencia "TechFix no se hace responsable"). (C info de problema) tipo, fecha del suceso, permanente o interminente, info detallada (min 20 max 500, contador), cliente intento reparar o llevo a otro tecnico (checkbox. si es el caso campo para que describa actos hechos max 300). (D Preferenia de entrega y confirmacion) modalidad de entrega (al local, retiro a domicilio. Si es retiro a dmicilio campo de texto con la dirección completa), presupuesto max autorizado sin consulta previa (5000 a 15000 a 30000, sin limite, consultar antes). Preferenciade contacto (una al menos seleccionar), horario para contactarse, aceptación de diagnostico duración de 48 horas por cliente. Acepta terminos y condiciones del servicio (checkbox, enlace a pagina falsa). (CTA) boton principal "registrar ingreso" centrado y estilo destacado, secundario "limpair", enlace "volver a inicio" que lleve a index.html. (CSS) campos cambian con :focus (borde con color y sombra suave), clases CSS "campo-error" (borde rojo) y "campo-ok" (borde verde) etapa 3. Cuatro secciones deben verse separadas, fondos diferente,borde redondeado.
+RESPUESTA RECIBIDA (resumen breve): [Creare estructura HTML para Techfix con estilos CSS responsive.] ----------------------------------------------------------
+-- USO EN EL PROYECTO: [Decidi usar el resultado tal cual como me dio, tuve que poner la imagen.] ------------------------------------------------------
+------ REFLEXION PERSONAL: [Si me parecio bien para acortar tiempo en la estructura base y el diseño visual]
+
