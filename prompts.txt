@@ -1,0 +1,15 @@
+1) Etapa del proyecto: [Etapa 1] Fecha: 20-05-2026
+PROMPT ENVIADO A COPILOT: Crea una estructura HTML para la empresa TechFix. Navbar: logo lado izquierdo, links (inicio, servicios, precios, nosotros y Ingresar equipo), ingresar equipo debe apuntar a ingreso.html que sera creado mas adelante. Sección hero: imagen sobre reparacion de pc. h1 nombre del servicio técnico, slogan, boton "Ingresar mi equipo" lleva a ingreso.html. 
+Tres iconos con info breve debajo, estos señalando indicadores de confianza (años de experiencia 5, garantia escrita, diagnostico gratuito). 
+Sección servicios (Reparación de pc de mesa y portatil, limpieza y mantenimiento, instalación y reinstalación de sistema operativo, soporte remoto, venta de repuestos, cambio de pantalla y teclado): tarjetas con icono, nombre de servicio, breve info y tiempo de trabajo aprox. 
+En grilla al menos tres columnas en pantalla de escritorio. Sección marcas y dispositivos atendidos: HP, Lenovo, Apple, Asus, Acer, Dell. Sección tabla de precios referenciales: Tabla html, 6 filas con columnas (servicio, precio desde, tiempo estimado), estelizada con CSS (cabecera con fondo, filas alternadas, borde). 
+Sección testimonio (3): nombre cliente, tipo de servicio recibido, texto del comentario, calificación. Footer: nombre y logo, horarios presencial y remoto, dirección, email, telefono, whatsapp, links a rrss, año de copyright. 
+
+Estilo css: azul oscuro, gris, blanco, color de acento (3 como variables CSS). 2 tipografías (moderna titulos y legible para cuerpo [google fonts]), tarjetas de servicio con hover suave, adaptado para pantaññas moviles (elementos alineados en una columna y tabla horizontal). ------------------------------------------------------------
+RESPUESTA RECIBIDA (resumen breve): [Resumir en no mas de tres oraciones que 
+respondio Copilot] ----------------------------------------------------------
+-- USO EN EL PROYECTO: [Explicar con tus propias palabras si usaste la 
+respuesta tal cual, si la modificaste o si la descartaste. Indicar por que 
+tomaste esa decision.] ------------------------------------------------------
+------ REFLEXION PERSONAL: [Escribir con tus propias palabras: fue util el 
+prompt? Obtuviste lo que esperabas? Que cambiarias la proxima vez?] 
